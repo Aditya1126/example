@@ -3,5 +3,6 @@ public class Demo {
         System.out.printf("Hello");
         System.out.printf("Hi");
         System.out.println("gogo");
+        System.out.println("we");
     }
 }
